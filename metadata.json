@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dream OS Platinum v5.0 | SIF Al Fikri",
+  "description": "Enterprise-grade management system for SIF Al Fikri with AI assistance, offline-first syncing, and platinum dashboard analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
